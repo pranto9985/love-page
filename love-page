@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>For You ❤️</title>
+  <style>
+    body {text-align:center; background:#ffe6e6; font-family:sans-serif;}
+    h1 {color:red;}
+    .heart {font-size:100px; animation: beat 1s infinite;}
+    @keyframes beat {0%{transform:scale(1);}50%{transform:scale(1.2);}100%{transform:scale(1);}}
+  </style>
+</head>
+<body>
+  <h1>Only for You, Anonya </h1>
+  <div class="heart">❤️</div>
+  <p>You make my code complete!</p>
+</body>
+</html>
